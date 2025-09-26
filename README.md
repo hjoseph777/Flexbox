@@ -17,6 +17,9 @@ Lab3Mobile demonstrates responsive Flexbox layouts in React Native. The project 
 
 [![Download Lab3Mobile](https://img.shields.io/badge/Download-Lab3MobileZip.zip-blue?style=for-the-badge&logo=download)](https://github.com/[YOUR-USERNAME]/[YOUR-REPO]/releases/download/v1.0/Lab3MobileZip.zip)
 
+
+[![Download Lab3Mobile](https://img.shields.io/badge/Download-Lab3MobileZip.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/Flexbox/releases/download/v1.0/Lab3MobileZip.zip)
+
 *Complete Expo project with Flexbox demo ready to run*
 
 ## Important: Where your Flexbox code lives
