@@ -15,6 +15,7 @@ Lab3Mobile demonstrates responsive Flexbox layouts in React Native. The project 
 
 **Get the complete project instantly:**
 
+To show users that something is happening and encourage them to wait patiently while a file is being downloaded, you can use several UI/UX techniques depending on your platform (web, mobile, desktop, etc). Here are some common ways:
 
 [![Download Lab3Mobile](https://img.shields.io/badge/Download-Lab3MobileZip.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/Flexbox/releases/download/v1.0/Lab3MobileZip.zip)
 
